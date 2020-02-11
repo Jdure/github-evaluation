@@ -2,7 +2,6 @@
 
 A review of our mob programming experience to improve on a fundational software development approach.
 
----
 
 ## Key aspects
 
@@ -15,37 +14,31 @@ Some highlights:
   - Learn by doing
   - Shadowing
 
----
 
 ## Open Communication
 
 Mob programming is a collaborative approach; ideas are exchanged and techniques are shared.
 
---
 
 ## Guidance
 
 Ideally, the approach is structured to help individual developpers to work on specific tasks to help the project.
 
---
 
 ## Problem Solve
 
 It's common for developers to get stuck writing code. With a set of peers with different levels of experience, those down times are less frequent.
 
----
 
 ## Learn by doing
 
 Developpers can improve their knowledge and skills easly with mob programming.
 
---
 
 ## Shadowing
 
 Being able to learn from more experienced developpers is important to improve the knowledge base of the team.
 
---
 
 ## Next Steps
 
