@@ -4,10 +4,6 @@ A review of our mob programming experience to improve on a fundational software 
 
 
 ## Key aspects
-
-Here are some highlights of the Mob programming experiment. 
-
-Some highlights: 
   - Open communication
   - Guidance
   - Problem-solve
