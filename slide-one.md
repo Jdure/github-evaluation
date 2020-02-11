@@ -48,7 +48,7 @@ Being able to learn from more experienced developpers is important to improve th
 
 ## Next Steps
 
-The experiment was done with four members of the team. For what it's worth the experiement was a success. To improve on this approach we can: 
+To improve on this approach we can: 
 
   1. Add more members of the team to work on a project (hack-a-thon style) 
   2. Incorporate less technical individuals to improve their skill
