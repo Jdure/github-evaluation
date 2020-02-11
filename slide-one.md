@@ -1,5 +1,4 @@
 ## Continuous Improvement : Mob programming
-
 A review of our mob programming experience to improve on a fundational software development approach.
 
 
