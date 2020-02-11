@@ -3,7 +3,7 @@ A review of our mob programming experience to improve on a fundational software 
 
 
 
-## Key aspects
+## Key findings
   - Open communication
   - Guidance
   - Problem-solve
