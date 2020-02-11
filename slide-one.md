@@ -1,120 +1,56 @@
-# GitHub Training Evaluation
+# Continuous Improvement : Mob programming
 
-This is a review of GitHub Training from [GitHub's Learning Lab](https://lab.github.com/githubtraining/paths).
-
----
-
-## Purpose
-
-The goal of this evaluation is to match each course to a team member. 
-
-These questions will be answered: 
-  - Time to complete each learning path
-  - Match course to team member
+A review of our mob programming experience to improve on a fundational software development approach.
 
 ---
 
-## Learning Paths
+## Key aspects
 
-GitHub's Learning Lab has two paths to teach the workflow process of GitHub.
+Here are some highlights of the Mob programming experiment. 
 
---
-
-### First Path
-
-The **First day of GitHub** takes 1.5 hours to complete. Teaches basics of GitHub like:
-  - commits
-  - branching
-  - issues
-  - pull requests
-
---
-
-### Second Path
-
-**First week on GitHub** takes 2 hours to complete. Teaches complex concepts like:
-  - github pages
-  - managing merge conflicts
-  - reviewing pull requests 
-  - securing your workflows
+Some highlights: 
+  - Open communication
+  - Guidance
+  - Problem-solve
+  - Learn by doing
+  - Shadowing
 
 ---
 
-## The Team
+## Open Communication
 
-Instead of following a learning path, members should focus on assigned courses.
-
-| Role | [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) (video) | [Discover GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY&feature=youtu.be) (video) | Introduction to GitHub course | Git handbook | Communicating using Markdowns | Uploading your project to GitHub | GitHub Pages | Managing merge conflicts | Securing your workflows | Reviewing pull requests | [Continuous Integration (CI) and Continuous Deployment (CD)](https://lab.github.com/githubtraining/continuous-integration-with-travis-ci) |
-|--------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------|--------------|-------------------------------|----------------------------------|--------------|--------------------------|-------------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Researchers | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |  | ✔ |
-| Technical Advisors | ✔ | ✔ |  ✔ | ✔ |  | ✔ |  | ✔ | ✔ | ✔ | ✔ |
-| Team Lead | ✔ | ✔ | ✔ | ✔ |  | ✔ |  | ✔ | ✔ | ✔ | ✔ |
-| Manager | ✔ | ✔ | ✔ |  |  |  |  |  |  | ✔ | ✔ |
+Mob programming is a collaborative approach; ideas are exchanged and techniques are shared.
 
 --
 
-## Assigned Course Breakdown
+## Guidance
+
+Ideally, the approach is structured to help individual developpers to work on specific tasks to help the project.
 
 --
 
-### Mandatory Courses
+## Problem Solve
 
-[What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) (video), [Discover GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY&feature=youtu.be) (video), Introduction to GitHub course should be taken by all members. 
-
-
-For the following reasons: 
-  1. The videos give a clear overview of GitHub and GitHub pages. 
-  2. The course is a explanation and walkthrough on GitHub basic concepts.
-
---
-
-### Team Researchers
-
-Will learn :  
-  1. To work with Git and GitHub
-  2. A plan to deploy your project
-  3. Guide to host your project on GitHub 
-  4. Avoids branch mistakes between collaborators
-  5. Manage vulnerable dependencies and hide sensitive data
-
---
-
-### Team Lead
-
-Will learn: 
-  1. Work with Git and GitHub
-  2. A plan to deploy your project
-  3. Request reviews, review someone's code and approve pull requests.
-  4. Avoids branch mistakes between collaborators
-  5. Manage vulnerable dependencies and hide sensitive data
-
---
-
-### Manager
-
-For quality insurance, managers will learn how to request reviews, review someone's code, respond to reviews and approve pull requests.
+It's common for developers to get stuck writing code. With a set of peers with different levels of experience, those down times are less frequent.
 
 ---
 
-## CI/CD
+## Learn by doing
 
-GitHub training lab provides a course, on [Continuous Integration (CI) and Continuous Deployment (CD)](https://lab.github.com/githubtraining/continuous-integration-with-travis-ci).
-This course helps setup the tool to ensure quality software development. 
+Developpers can improve their knowledge and skills easly with mob programming.
 
 --
 
-### Who should follow this course
-This course would benefit the **team researchers** and **team leads**. Since it would help them :
-  - setup CI in their existing repositories
-  - create build and test environments
-  - enables protected branches
-  - automate validations within the project
+## Shadowing
 
-Note: This course is more complex but it is recommended that everyone takes it. 
+Being able to learn from more experienced developpers is important to improve the knowledge base of the team.
 
----
+--
 
-## Summary
-  - The Learning Paths take between 1.5 to 2 hours to complete.
-  - Each team member has a series of courses assigned to them
-  - CI/CD learning, necessary for software development projects
+## Next Steps
+
+The experiment was done with four members of the team. For what it's worth the experiement was a success. To improve on this approach we can: 
+
+  1. Add more members of the team to work on a project (hack-a-thon style) 
+  2. Incorporate less technical individuals to improve their skill
+  3. Figure out how to incorporate mob programming to a virtual team
