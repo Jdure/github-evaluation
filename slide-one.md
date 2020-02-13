@@ -40,7 +40,7 @@ Developpers can improve their knowledge and skills easly with mob programming.
 
 ## Shadowing
 
-Being able to learn from more experienced developpers is important to improve the knowledge base of the team.
+Experienced developpers is important to improve the knowledge base of the team.
 
 
 
@@ -48,6 +48,6 @@ Being able to learn from more experienced developpers is important to improve th
 
 To improve on this approach we can: 
 
-  1. Add more members of the team to work on a project (hack-a-thon style) 
-  2. Incorporate less technical individuals to improve their skill
-  3. How to incorporate mob programming to a virtual team
+  1.Add members to work on a bigger project 
+  2.Incorporate individuals to improve their skill
+  3.Define a use case for a virtual team
