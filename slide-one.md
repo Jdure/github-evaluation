@@ -2,10 +2,14 @@
 A review of our **mob programming** experiment.
 
 
+## What is it?
+
+Some words... 
+
 
 ## Purpose
 
-To increase productivity, decision making and output of a project.
+To increase productivity, decision making and output of a project. 
 
 
 
