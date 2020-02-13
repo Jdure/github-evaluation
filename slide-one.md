@@ -46,8 +46,6 @@ Experienced developpers will improve the knowledge base of the team.
 
 ## Next Steps
 
-To improve on this approach we can: 
-
-  1.Add members to work on a bigger project 
-  2.Incorporate individuals to improve their skill
-  3.Define a use case for a virtual team
+  1. Add members to work on a bigger project 
+  2. Incorporate individuals to improve their skill
+  3. Define a use case for a virtual team
