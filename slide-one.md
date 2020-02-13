@@ -7,6 +7,7 @@ A review of our **mob programming** experiment.
 To increase productivity, decision making and output of a project.
 
 
+
 ## Key findings
 
   - Open communication
