@@ -2,6 +2,7 @@
 A review of our **mob programming** experiment.
 
 
+
 ## Purpose
 
 To increase productivity, decision making and output of a project.
@@ -40,6 +41,7 @@ Developpers can improve their knowledge and skills easly with mob programming.
 ## Shadowing
 
 Being able to learn from more experienced developpers is important to improve the knowledge base of the team.
+
 
 
 ## Next Steps
