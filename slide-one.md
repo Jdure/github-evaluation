@@ -35,7 +35,7 @@ It's common for developers to be stuck writing code. Peers make those down times
 
 ## Learn by doing
 
-Developpers can improve their knowledge and skills easly with mob programming.
+Developpers can improve their abilities with mob programming.
 
 
 ## Shadowing
