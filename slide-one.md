@@ -40,7 +40,7 @@ Developpers can improve their abilities with mob programming.
 
 ## Shadowing
 
-Experienced developpers is important to improve the knowledge base of the team.
+Experienced developpers will improve the knowledge base of the team.
 
 
 
