@@ -25,7 +25,7 @@ Mob programming is a collaborative approach; ideas are exchanged and techniques 
 
 ## Guidance
 
-The experiment made developpers work on specific tasks to help the project.
+The experiment made developpers work on specific tasks to build the project.
 
 
 ## Problem Solve
