@@ -30,7 +30,7 @@ The experiment made developpers work on specific tasks to help the project.
 
 ## Problem Solve
 
-It's common for developers to be stuck writing code. Experienced peers make those down times less frequent.
+It's common for developers to be stuck writing code. Peers make those down times less frequent.
 
 
 ## Learn by doing
